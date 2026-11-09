@@ -30,7 +30,7 @@ The client opens a page in the browser and the user approves it. Tell the user t
 
 **2. An AI-tool key.** The user creates the key, never you. Tell them:
 
-> In your AYBIZA workspace at app.aybiza.com, ask AY for a key for your AI tool, or tick
+> In your AYBIZA workspace at app.aybiza.com, ask the workspace chat for a key for your AI tool, or tick
 > "For an AI tool: MCP only" in the key builder. Pick only the permissions this tool needs.
 
 The key starts with `aybiza-mcp_`. It opens the MCP endpoint and nothing else. Most clients take a
