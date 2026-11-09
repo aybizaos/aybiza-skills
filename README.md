@@ -15,6 +15,9 @@ npx skills add aybizaos/aybiza-skills --skill aybiza
 
 Or copy `skills/aybiza/` into your agent's skills folder.
 
+In Hermes Agent, this repository is also a plugin package (`plugin.json`, `mcp.json`). Put your AI-tool key in the
+`AYBIZA_MCP_KEY` environment variable; the package itself holds no key.
+
 ## What this repository holds
 
 Instructions in plain text only. No code runs on install, and no key or secret is stored here. You
